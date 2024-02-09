@@ -1,5 +1,3 @@
-PRACTICAL 7 - WAP TO CHECK WHETHER THE GRAMMAR IS LL(1) OR NOT
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
